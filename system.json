@@ -1,11 +1,11 @@
 {
-    "id": "custos",
-    "title": "Custos System",
-    "description": "Unofficial system for Lex Arcana",
-    "version": "1.2.1",
+    "id": "astrocordis",
+    "title": "Astrocordis System",
+    "description": "An innovative science and task based role system ",
+    "version": "0.1",
     "authors": [
       {
-        "name": "ParvusDomus",
+        "name": "FalsaTortuga",
         "flags": {}
       }
     ],
