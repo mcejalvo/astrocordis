@@ -51,8 +51,8 @@
     },
     "primaryTokenAttribute": "resources.life",
     "secondaryTokenAttribute": "resources.pietas",
-    "url": "https://github.com/parvusdomus/custos",
-    "manifest": "https://github.com/parvusdomus/custos/releases/latest/download/system.json",
+    "url": "https://github.com/mcejalvo/astrocordis",
+    "manifest": "https://raw.githubusercontent.com/mcejalvo/astrocordis/main/system.json",
     "download": "https://github.com/parvusdomus/custos/releases/latest/download/custos.zip",
     "license": "LICENSE.txt"
   }
